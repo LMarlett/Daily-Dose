@@ -1,0 +1,182 @@
+.background {
+	background-image: url(images/pills.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+html {
+	height: 100%;
+	text-align: center;
+
+ 
+
+}
+
+/*creates a scrolling effect which has a still image under
+separate moving top*/
+.homeimg
+{
+	background-image: url(images/happyCouple.jpg);
+    height: 40%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*styles the div on top of the background*/
+.homeStyle {
+	display: inline-block;
+	text-align: left;
+	padding: 10px;
+	line-height: 1.25;
+	background-size: cover;
+
+}
+
+.array{
+	max-width: 70%;
+	margin:auto;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+		span{
+			background-color: #a8a8a8;
+		}
+
+		hr {
+		width: 75%;
+		margin-left: auto;
+		margin-right: auto;
+		height: 50px;
+		background-color:  #a8a8a8;
+		color:  #a8a8a8;
+		border: 0 none;
+		}
+
+		hr.thin {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		height: 10px;
+		background-color: #a8a8a8;
+		color: #a8a8a8;
+		border: 0 none;
+		}
+
+
+/*for highlighting specific txt white*/
+
+		span.textBackground {
+		    background-color: white;
+		}
+	 
+	
+
+
+		h1 {
+		color: #264d00;
+			font-family: Lucida Sans Unicode, sans-serif;
+		font-size: 80px;
+		text-align: center;
+		}
+
+
+
+		h2 {
+		color:  #271972;
+			font-family: Lucida Sans Unicode, sans-serif;
+		font-size: 60px;
+		text-align: center;
+		}
+
+		p
+		{
+		color:  black;
+			font-family: Lucida Sans Unicode, sans-serif;
+		font-size: 20px;
+		text-align: center;
+		padding: 10px;
+		line-height: 2.00;
+	}
+
+ul {
+	list-style-type: disc;
+	color:  #264d00;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	line-height: 2.00;
+}
+
+dd{
+	color:  #264d00;
+	font-family: Georgia, serif;
+	font-size: 30px;
+	text-align: center;
+	line-height: 1.50;
+}
+dt{
+	color:  black;
+	font-family: Georgia, serif;
+	font-size: 30px;
+	text-align: center;
+	line-height: 2.00;
+}
+
+	p.black
+	{
+	color:  black;
+	font-family: Georgia, serif;
+	font-size: 38px;
+	text-align: center;
+}
+/*this is to set the fieldset options*/
+		fieldset{
+		color:  Black;
+		font-family: Georgia, serif;
+		font-size: 18px;
+		text-align: left;
+	}
+
+/*a is for text editing for links its named one just in case i want to add other types*/
+		a.one:link
+		{
+		color: Black;
+		text-decoration: none;
+		font-family: Georgia, serif;
+		font-size: 30px
+		}
+
+		a.one:visited
+		{
+		color: Black;
+		text-decoration: none;
+		}
+
+		a.one:hover
+		{
+		text-decoration: underline;
+		}
+
+		a.two:link
+		{
+		color: grey;
+		text-decoration: none;
+		font-family: Georgia, serif;
+		font-size: 30px
+		}
+
+		a.two:visited
+		{
+		color: grey;
+		text-decoration: none;
+		}
+
+		a.two:hover
+		{
+		text-decoration: none;
+		}
