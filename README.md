@@ -19,8 +19,9 @@ Our proposed solution: A voice-call pill-reminder that can be used in several la
 => do not require any reading from the users
 
 How:
-Create a automated voice-call using Twilio
-Create a Sign-up page to store database
+Create  automated voice-calling messages using Twilio
+Create a Sign-up page to store user information in a database
+Make it as low cost as possible.
 Language used: Python, HTML, Javascript
 
 Extension of the project:
