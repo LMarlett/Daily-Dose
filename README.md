@@ -4,7 +4,7 @@ Daily-Dose
 Problem: From our volunteering experience, one of us witnessed an old man who took his blood pressure pills twice, which lead to intense trembling and painfull shortness of breath. 
 According to our research, this is actually an ongoing scenario in hospitals. Many elderely people found themselves in life threatening situations because they forgot to take their pills or took the wrong dose, especially those who have Alhzeimer and those coming from low-income background.
 
-Why: Medication non compliance is one of the biggest healthcare problem that needs to be 
+Why this is important: Medication non compliance is one of the biggest healthcare problem that needs to be 
 It can have negative consequences not only for the patient(ex: sickeness worsens with time, anti-bacteria resistance) but also for the health care provider's system (Medicaid's debt is increasing every year).
 Because it is a major public health problem, it is necessary to reduce those preventable hospitalizations.
 
