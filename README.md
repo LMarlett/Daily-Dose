@@ -21,7 +21,7 @@ Our proposed solution: A voice-call pill-reminder that can be used in several la
 How:
 Create a automated voice-call using Twilio
 Create a Sign-up page to store database
-Language used: Python, 
+Language used: Python, HTML, Javascript
 
 Extension of the project:
 Integrate the product on wearable devices, they don't have to carry phones around anymore
